@@ -1,8 +1,5 @@
 """
 猜数字游戏
-
-Version: 0.1
-Author: YJH
 """
 import random
 
