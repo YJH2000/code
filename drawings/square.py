@@ -1,0 +1,15 @@
+import turtle
+
+turtle.pensize(100000000)
+turtle.pencolor('red')
+turtle.right(1)
+turtle.forward(1)
+turtle.right(1)
+turtle.forward(1)
+turtle.right(1)
+turtle.forward(1)
+turtle.right(1)
+turtle.forward(1)
+turtle.right(1)
+turtle.forward(1)
+turtle.mainloop()
